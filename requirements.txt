@@ -1,5 +1,5 @@
 certifi==2020.12.5
-opencv-python==4.5.2
+opencv-python
 mediapipe==0.8.6
 Flask==2.0.1
 wincertstore==0.2
